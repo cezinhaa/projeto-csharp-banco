@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\Aplicativo01\Aplicativo01\bin\Debug\Aplicativo01.exe.config
+C:\Users\aluno\source\repos\Aplicativo01\Aplicativo01\bin\Debug\Aplicativo01.exe
+C:\Users\aluno\source\repos\Aplicativo01\Aplicativo01\bin\Debug\Aplicativo01.pdb
+C:\Users\aluno\source\repos\Aplicativo01\Aplicativo01\obj\Debug\Aplicativo01.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Aplicativo01\Aplicativo01\obj\Debug\Aplicativo01.Banco.resources
+C:\Users\aluno\source\repos\Aplicativo01\Aplicativo01\obj\Debug\Aplicativo01.Properties.Resources.resources
+C:\Users\aluno\source\repos\Aplicativo01\Aplicativo01\obj\Debug\Aplicativo01.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Aplicativo01\Aplicativo01\obj\Debug\Aplicativo01.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Aplicativo01\Aplicativo01\obj\Debug\Aplicativo01.exe
+C:\Users\aluno\source\repos\Aplicativo01\Aplicativo01\obj\Debug\Aplicativo01.pdb
